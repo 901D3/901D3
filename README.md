@@ -6,4 +6,4 @@ freevideodither.glitch.me
 thats it LOL\
 i forgot that i have some repos in my profile page LMAO
 And also go sub to my channel its very hilarious
-### [go and sub now why are you waiting here bruh](https://www.youtube.com/@kenhcuahuy_901D3)
+<!--### [go and sub now why are you waiting here bruh](https://www.youtube.com/@kenhcuahuy_901D3)-->
