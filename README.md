@@ -1,7 +1,7 @@
 # _**901D3**_
 ## _**Clockxyrherris**_
 
-It is pronounced "gold"\
+It is pronounced "gold" and xi-huh-ris\
 A guy that likes to do some codes, some tools i made:\
 freevideodither(self-explanatory)
 candlexyrherris(web-based reimplementation of Sonic candle)
