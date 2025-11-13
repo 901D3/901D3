@@ -9,7 +9,7 @@ freeimagedither(self-explanatory too)\
 candlexyrherris(web-based reimplementation of Sonic candle)\
 blue-noise.js
 
-I gave you (almost) all knobs for you to tweak so it's on you
+I gave you (almost) all of the knobs for you to tweak so it's on you
 
 <!--And also go sub to my channel its very hilarious-->
 <!--### [go and sub now why are you waiting here bruh](https://www.youtube.com/@kenhcuahuy_901D3)-->
