@@ -1,7 +1,7 @@
 # _**901D3**_
 ## _**Clockxyrherris**_
 
-It is pronounced "gold" and xi-huh-ris\
+It is pronounced "gold" and xi-huh-ris
 
 Some tools i made:\
 freevideodither(self-explanatory)\
