@@ -3,13 +3,5 @@
 
 It is pronounced "gold" and xi-huh-ris
 
-Some tools i made:\
-freevideodither(self-explanatory)\
-freeimagedither(self-explanatory too)\
-candlexyrherris(web-based reimplementation of Sonic candle)\
-blue-noise.js
-
-I gave you (almost) all of the knobs for you to tweak so it's on you
-
-<!--And also go sub to my channel its very hilarious-->
-<!--### [go and sub now why are you waiting here bruh](https://www.youtube.com/@kenhcuahuy_901D3)-->
+<!--And also go sub to my channel its very cool-->
+<!--https://www.youtube.com/@kenhcuahuy_901D3-->
