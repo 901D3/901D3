@@ -2,4 +2,4 @@
 ## _**Clockxyrherris**_
 
 It is pronounced "gold" and xi-huh-ris\
-"Clockxyrherris" is my earlier name
+"Clockxyrherris" is my previous name
