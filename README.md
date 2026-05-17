@@ -1,5 +1,4 @@
 # _**901D3**_
-## _**Clockxyrherris**_
+## _**xyrherris**_
 
 It is pronounced "gold" and xi-huh-ris\
-"Clockxyrherris" is my previous name
